@@ -4,10 +4,6 @@ package eventsmain;
 import java.util.Arrays;
 import javax.swing.*;
 
-/**
- *
- * @author Asif
- */
 public class NewWindow {
     public void sum(){
     

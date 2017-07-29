@@ -3,7 +3,7 @@ package eventsmain;
 
 /**
  *
- * @author Asif
+ * @author Faisal
  */
 public class EventsMain {
     public static void main(String[] args) {
